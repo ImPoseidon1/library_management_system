@@ -1,121 +1,93 @@
-# library_management_system
-Phase 1: Core Functionalities
-User Authentication and Authorization
+# Library Management System
 
-User Registration
-User Login
-Role-Based Access Control (Admin, Librarian, Patron)
-Catalog Management
+## Project Overview
+This project aims to build a library management system to add, track, and manage books in a library using Python, SQL, and Flask.
 
-Add New Books
-Update Book Information
-Delete Books
-View Book Details
-Search and Discovery
+## Functional Requirements
 
-Basic Search (by title, author, ISBN)
-Advanced Search (by genre, publication date, etc.)
-Filter and Sort Results
-Circulation Management
+### Phase 1: Core Functionalities
+ **User Authentication and Authorization**
+   - User Registration
+   - User Login
+   - Role-Based Access Control (Admin, Librarian, Patron)
 
-Borrow Books
-Return Books
-Renew Books
-Track Borrowing History
-Phase 2: Enhanced Functionalities
-Patron Management
+ **Catalog Management**
+   - Add New Books
+   - Update Book Information
+   - Delete Books
+   - View Book Details
 
-View Patron Details
-Update Patron Information
-Manage Patron Accounts
-Inventory Management
+ **Search and Discovery**
+   - Basic Search (by title, author, ISBN)
+   - Advanced Search (by genre, publication date, etc.)
+   - Filter and Sort Results
 
-Track Inventory Levels
-Automated Stock Updates
-Generate Inventory Reports
-Notifications and Alerts
+ **Circulation Management**
+   - Borrow Books
+   - Return Books
+   - Renew Books
+   - Track Borrowing History
 
-Due Date Reminders
-Overdue Notices
-Reservation Availability Notifications
-Reservations and Holds
 
-Place Holds on Books
-Manage Hold Requests
-Notify Patrons When Holds are Available
-Phase 3: Advanced Functionalities
-Reports and Analytics
+### Phase 2: Enhanced Functionalities
+ **Patron Management**
+   - View Patron Details
+   - Update Patron Information
+   - Manage Patron Accounts
 
-Generate Usage Reports
-Track Circulation Statistics
-Analyze Borrowing Trends
-Customizable Reporting Tools
-Acquisitions Management
+ **Inventory Management**
+   - Track Inventory Levels
+   - Automated Stock Updates
+   - Generate Inventory Reports
 
-Manage Purchase Orders
-Track Supplier Information
-Budget Management
-Serials Management
+ **Notifications and Alerts**
+   - Due Date Reminders
+   - Overdue Notices
+   - Reservation Availability Notifications
 
-Manage Periodicals and Journals
-Track Subscription Status
-Issue and Volume Management
-Digital Resource Management
+ **Reservations and Holds**
+   - Place Holds on Books
+   - Manage Hold Requests
+   - Notify Patrons When Holds are Available
 
-Manage eBooks and Digital Media
-Integrate with Digital Libraries
-DRM (Digital Rights Management) Support
-Phase 4: Additional Functionalities
-Interlibrary Loan
 
-Request Books from Other Libraries
-Manage Interlibrary Loan Requests
-Track Borrowed and Lent Items
-User Reviews and Ratings
+### Phase 3: Advanced Functionalities
+ **Reports and Analytics**
+   - Generate Usage Reports
+   - Track Circulation Statistics
+   - Analyze Borrowing Trends
+   - Customizable Reporting Tools
 
-Allow Patrons to Rate Books
-Enable User Reviews and Comments
-Mobile Application
+ **Acquisitions Management**
+  - Manage Purchase Orders
+  - Track Supplier Information
+  - Budget Management
 
-Develop a Mobile App for Patron Access
-Implement Mobile-Friendly Features (e.g., barcode scanning for checkouts)
-Integration with Third-Party Services
+ **Serials Management**
+  - Manage Periodicals and Journals
+  - Track Subscription Status
+  - Issue and Volume Management
 
-Integrate with Book Vendors for Acquisitions
-Connect with External Databases (e.g., WorldCat)
-Integration with Social Media Platforms
-Phase 5: Innovative Functionalities
-Advanced Book Recommendation System
 
-Implement Personalized Recommendations
-Use Machine Learning for Collaborative Filtering
-Voice Search and Commands
+### Phase 4: Additional Functionalities
+ **User Reviews and Ratings**
+  - Allow Patrons to Rate Books
+  - Enable User Reviews and Comments
 
-Enable Voice-Activated Search
-Implement Voice Commands for Common Actions
-Blockchain for Book Tracking
+ **Mobile Application**
+  - Develop a Mobile App for Patron Access
+  - Implement Mobile-Friendly Features (e.g., barcode scanning for checkouts)
 
-Secure Book Tracking Using Blockchain
-Implement Digital Ownership Certificates
-Augmented Reality (AR) Integration
 
-Virtual Bookshelf for Book Discovery
-AR Navigation within the Library
-Gamification
+### Phase 5: Innovative Functionalities
+ **Voice Search and Commands**
+  - Enable Voice-Activated Search
+  - Implement Voice Commands for Common Actions
 
-Introduce Reading Challenges and Rewards
-Implement Leaderboards and Badges
-Environmental Impact Tracking
+ **Augmented Reality (AR) Integration**
+  - Virtual Bookshelf for Book Discovery
+  - AR Navigation within the Library
 
-Track and Display Carbon Footprint
-Promote Eco-Friendly Practices
-Phase 6: Maintenance and Enhancements
-Regular Maintenance
-
-Bug Fixes and Performance Improvements
-Security Updates and Patches
-User Feedback and Enhancements
-
-Collect User Feedback
-Implement Requested Features
-Continuous Improvement Based on Usage Data
+ **Gamification**
+  - Introduce Reading Challenges and Rewards
+  - Implement Leaderboards and Badges
